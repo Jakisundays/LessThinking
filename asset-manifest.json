@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LessThinking/static/css/main.8d38ac0a.css",
+    "main.js": "/LessThinking/static/js/main.2d2cd357.js",
+    "index.html": "/LessThinking/index.html",
+    "main.8d38ac0a.css.map": "/LessThinking/static/css/main.8d38ac0a.css.map",
+    "main.2d2cd357.js.map": "/LessThinking/static/js/main.2d2cd357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d38ac0a.css",
+    "static/js/main.2d2cd357.js"
+  ]
+}
